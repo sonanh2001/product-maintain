@@ -1,7 +1,7 @@
 # product-maintain
 Nhóm 9:
 
-Nguyễn Hồng Sơn Anh
+Nguyễn Hồng Sơn Anh(Nhóm trưởng)
 
 Nguyễn Bích Ngọc
 
