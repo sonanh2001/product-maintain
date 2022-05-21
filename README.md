@@ -30,4 +30,4 @@ Các bước thực hiện:
 
 2.2.6. delete(): xóa sản phẩm trong CSDL theo productCode rồi chuyển hướng về trang hiển thị danh sách sản phẩm: Ngọc
 
-3. Viết file HTML theo định dạng thymeleaf theo yêu cầu của controller và thêm CSS vào file HTML: Sơn Anh
+3. Viết file HTML theo định dạng thymeleaf theo yêu cầu của controller và thêm CSS vào file HTML, hướng dẫn cách làm cho các bạn: Sơn Anh
